@@ -1,7 +1,9 @@
 ## ContentAid
 
-AI-Powered knowledge augmentation to empower Customer Support Agents and accelerating resolution:
+AI-Powered knowledge augmentation tool to empower Customer Support Agents:
 
-- Rapid Content Summarization & Understanding
+- Rapid content summarization & understanding
 
-- AI-Generated Response & Action Suggestions
+- AI-Generated response & action suggestions
+
+- Accelerating ticket resolution
