@@ -1,4 +1,7 @@
 ## ContentAid
 
-AI agent that is designed to seamlessly augment human customer support agents. 
-Leveraging company knowledge base, ContentAid provides rapid access to relevant information, accelerating resolution times and ensuring consistent, accurate responses.
+AI-Powered knowledge augmentation to empower Customer Support Agents and accelerating resolution:
+
+- Rapid Content Summarization & Understanding
+
+- AI-Generated Response & Action Suggestions
